@@ -24,6 +24,7 @@ if (app.Environment.IsDevelopment())
 }
 //hema
 //hema2
+//hema3
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
