@@ -22,7 +22,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+//hema
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
